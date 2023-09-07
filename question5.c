@@ -6,8 +6,10 @@ C. if a number is greater than 9 & less than 100 ---> true
     (2 digit number)
 */
 int main(){
-    int is_monday=0;
-    int is_raining=1;
-    printf("%d",is_monday||is_raining);
+    int x;
+    printf("enter x \n");
+    scanf("%d",&x);
+    int y=x>9&&x<100;
+    printf("%d",y);
     return 0;
 }
