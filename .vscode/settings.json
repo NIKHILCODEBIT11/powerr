@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "SAMEPRECEDENCE.C": "cpp",
-        "PRACTICE1.C": "cpp"
+        "PRACTICE1.C": "cpp",
+        "TERNARY.C": "cpp"
     }
 }
