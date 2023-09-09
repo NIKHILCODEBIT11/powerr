@@ -10,4 +10,5 @@ int main(){
         printf("sum is %d \n",sum);
     }
     return 0;
+    // very very unique problem for concept of loop just run.
 }
