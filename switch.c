@@ -12,7 +12,7 @@ int main(){
         case 't':printf("TUESDAY \n");
         break;
         case 'w':printf("WEDNESDAY \n");
-        break;
+       // break;
         case 'T':printf("THURSDAY \n");
         break;
         case 'f':printf("FRIDAY \n");
