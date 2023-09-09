@@ -2,6 +2,7 @@
     "files.associations": {
         "SAMEPRECEDENCE.C": "cpp",
         "PRACTICE1.C": "cpp",
-        "TERNARY.C": "cpp"
+        "TERNARY.C": "cpp",
+        "stdio.h": "c"
     }
 }
