@@ -3,6 +3,7 @@
         "SAMEPRECEDENCE.C": "cpp",
         "PRACTICE1.C": "cpp",
         "TERNARY.C": "cpp",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "POINTERQUESTION.C": "cpp"
     }
 }
