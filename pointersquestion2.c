@@ -10,6 +10,7 @@ int main(){
     return 0;
 
 }
-void prin(int a){
+void prin(int a){ 
     printf("the address of a is %u \n",&a);
+    // the value changes because this is function by call because of which gets a copy of value from main function.
 } 
