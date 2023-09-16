@@ -4,6 +4,7 @@
         "PRACTICE1.C": "cpp",
         "TERNARY.C": "cpp",
         "stdio.h": "c",
-        "POINTERQUESTION.C": "cpp"
+        "POINTERQUESTION.C": "cpp",
+        "STRINGSPRINT.C": "cpp"
     }
 }
