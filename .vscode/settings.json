@@ -5,6 +5,7 @@
         "TERNARY.C": "cpp",
         "stdio.h": "c",
         "POINTERQUESTION.C": "cpp",
-        "STRINGSPRINT.C": "cpp"
+        "STRINGSPRINT.C": "cpp",
+        "STRINGSSALTING.C": "cpp"
     }
 }
