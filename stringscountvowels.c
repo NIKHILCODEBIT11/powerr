@@ -19,5 +19,4 @@ void countvowels(char str[]){
 
 }
 printf("the no. of vowels are %d",count);
-// doubt when it runs
 }
