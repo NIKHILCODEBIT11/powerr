@@ -17,15 +17,17 @@ int main(){
     COE[0].roll=16578;
     COE[0].cgpa=9.1;
     strcpy(COE[0].name,"putre");
-    printf("name is %s",COE[0].name);
-    printf("roll is %d",COE[0].roll);
-    printf("cgpa is %f",COE[0].cgpa);
+    printf("name is %s \n",COE[0].name);
+    printf("roll is %d \n",COE[0].roll);
+    printf("cgpa is %f \n",COE[0].cgpa);
     struct student IT[100];
     IT[0].roll=1644;
     IT[0].cgpa=9.4;
-    strcpyy(IT[0].name,"herie");
-    printf("name is %s \n",)
-    return 0;
+    strcpy(IT[0].name,"herie");
+    printf("name is %s \n",IT[0].name);
+    printf("roll is %d \n",IT[0].roll);
+    printf("cgpa is %f \n",IT[0].cgpa);
+    return 0; 
 
 
 }
