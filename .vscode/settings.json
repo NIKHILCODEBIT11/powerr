@@ -6,6 +6,7 @@
         "stdio.h": "c",
         "POINTERQUESTION.C": "cpp",
         "STRINGSPRINT.C": "cpp",
-        "STRINGSSALTING.C": "cpp"
+        "STRINGSSALTING.C": "cpp",
+        "STRUCT2.C": "cpp"
     }
 }
