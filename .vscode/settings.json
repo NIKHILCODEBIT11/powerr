@@ -7,6 +7,7 @@
         "POINTERQUESTION.C": "cpp",
         "STRINGSPRINT.C": "cpp",
         "STRINGSSALTING.C": "cpp",
-        "STRUCT2.C": "cpp"
+        "STRUCT2.C": "cpp",
+        "sstream": "c"
     }
 }
