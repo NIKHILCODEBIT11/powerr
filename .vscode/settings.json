@@ -8,6 +8,7 @@
         "STRINGSPRINT.C": "cpp",
         "STRINGSSALTING.C": "cpp",
         "STRUCT2.C": "cpp",
-        "sstream": "c"
+        "sstream": "c",
+        "TRY10.C": "cpp"
     }
 }
