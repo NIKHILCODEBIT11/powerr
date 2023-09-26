@@ -11,10 +11,11 @@ typedef struct address{
 void printinfo(add house); // will have to use add everytime instead of struct address.
 int main(){
     add adds[5];
+    add *ptr=&adds[0];
     // input
     printf("enter info for person 1 :");
-    scanf("%d",&adds[0].houseno);
-    scanf("%c",&adds[0].block);
+    scanf("%d",(*ptr).houseno);
+    scanf("%c",(*ptr).block);
     scanf("%s",adds[0].city);
     scanf("%s",adds[0].state);
 
@@ -42,11 +43,11 @@ int main(){
     scanf("%s",adds[4].city);
     scanf("%s",adds[4].state);
 
-    printinfo(adds[0]);
-    printinfo(adds[1]);
-    printinfo(adds[2]);
-    printinfo(adds[3]);
-    printinfo(adds[4]);
+    printinfo((*ptr));
+    printinfo((*(ptr+1)));
+    printinfo(*(ptr+2));
+    printinfo(*(ptr+3));
+    printinfo(*(ptr+4));
 
     return 0;
 
